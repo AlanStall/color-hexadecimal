@@ -1,0 +1,11 @@
+#root {
+  width: 30%;
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+}
+textarea {
+  width: 30%;
+  height: 150px;  
+  text-align: center;
+}
